@@ -30,8 +30,10 @@ public class Pattern {
     }
 
     public static void main(String[] args) {
-//        lowerTriangle(5);
-//        upperTriangle(5);
+        lowerTriangle(5);
+        System.out.println("");
+        upperTriangle(5);
+        System.out.println("");
           triangle(5);
     }
 }
